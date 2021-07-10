@@ -3,3 +3,5 @@
 *.xls
 *.py
 *.json
+*.names
+*.data-original
