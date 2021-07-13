@@ -5,3 +5,5 @@
 *.json
 *.names
 *.data-original
+*.tsv
+*.tfevents
