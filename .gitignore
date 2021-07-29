@@ -7,3 +7,5 @@
 *.data-original
 *.tsv
 *.tfevents
+photos
+videos
