@@ -7,5 +7,5 @@
 *.data-original
 *.tsv
 *.tfevents
-photos
-videos
+*.mp4
+*.jpg
